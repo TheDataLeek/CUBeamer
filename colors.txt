@@ -1,0 +1,33 @@
+From http://www.colorado.edu/brand/visual-identity/typography-color
+
+
+CU Gold
+
+C0 M10 Y48 K22
+(or PANTONE® 4525 C)
+R207 G184 B124
+#CFB87C
+
+
+Black
+
+C0 M0 Y0 K100
+R0 G0 B0
+#000000
+
+
+CU Dark Gray
+
+C38 M28 Y21 K63
+(or PANTONE® 425 C )
+R86 G90 B92
+#565A5C
+
+
+CU Light Gray
+
+C16 M11 Y11 K29
+(or PANTONE® 422 C)
+R162 G164 B163
+#A2A4A3
+
